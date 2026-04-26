@@ -27,7 +27,8 @@ The dataset is not included in this repository. Please download it from the link
 
 ## Project Structure
 
-mnist-handwritten-digit-recognition/
+```text
+Fantastic_Datasets_and_Where_to_Find_Them_MNIST/
 │
 ├── notebooks/
 │   ├── 01_pixel_value_generation.ipynb
@@ -45,8 +46,7 @@ mnist-handwritten-digit-recognition/
 │
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ## Notebooks Overview
 
@@ -70,7 +70,7 @@ The model:
 - Uses dropout to prevent overfitting
 - Outputs predictions using a softmax layer
 
-The CNN is trained for 5 epochs with a batch size of 64 and achieves over 99% accuracy. :contentReference[oaicite:2]{index=2}
+The CNN is trained for 5 epochs with a batch size of 64 and achieves over 99% accuracy.
 
 ### 4. Results Visualization
 
