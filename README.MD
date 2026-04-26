@@ -8,7 +8,7 @@ The project follows a complete workflow: understanding the dataset, preprocessin
 
 ## Dataset
 
-The MNIST dataset (Modified National Institute of Standards and Technology) is one of the most widely used datasets in machine learning and computer vision. It is often referred to as the "Hello World" dataset for deep learning. :contentReference[oaicite:0]{index=0}
+The MNIST dataset (Modified National Institute of Standards and Technology) is one of the most widely used datasets in machine learning and computer vision. It is often referred to as the "Hello World" dataset for deep learning. 
 
 - 70,000 grayscale images
 - Image size: 28 × 28 pixels
@@ -16,9 +16,7 @@ The MNIST dataset (Modified National Institute of Standards and Technology) is o
 - 60,000 training samples
 - 10,000 test samples
 
-Each image consists of 784 pixel values (28 × 28), where pixel intensities range from 0 (black) to 255 (white). :contentReference[oaicite:1]{index=1}
-
-Dataset link:
+Each image consists of 784 pixel values (28 × 28), where pixel intensities range from 0 (black) to 255 (white). 
 https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 
 The dataset is not included in this repository. Please download it from the link above if needed.
@@ -41,8 +39,6 @@ Fantastic_Datasets_and_Where_to_Find_Them_MNIST/
 │
 ├── video/
 │   └── video_link.txt
-│
-├── results/
 │
 ├── requirements.txt
 └── README.md
@@ -154,7 +150,7 @@ Run notebooks in order:
 
 ## Conclusion
 
-The MNIST dataset remains a fundamental benchmark for machine learning. Despite its simplicity, it is highly effective for understanding core concepts in image classification and deep learning. :contentReference[oaicite:4]{index=4}
+The MNIST dataset remains a fundamental benchmark for machine learning. Despite its simplicity, it is highly effective for understanding core concepts in image classification and deep learning.
 
 ---
 
